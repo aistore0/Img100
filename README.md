@@ -1,2 +1,2 @@
 # POST YOUR IMG ON
-```img100.aistore.my.id```
+```https://aistore.my.id/Upload```
